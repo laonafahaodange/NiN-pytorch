@@ -318,7 +318,8 @@ if __name__ == '__main__':
 rose和tulip预测错误，其余正确。
 
 ## 总结
-训练10个epoch的时候还是发现验证集准确率一直在24%。调整batchsize=64，优化器为adam，初始化学习率为0.0002，训练90个epoch，每30个epoch学习率除以10。最终验证集准确率达到63%。从生成模型文件的大小来看参数确实降低了许多（AlexNet大约220MB，NiN只需要78MB）。
+训练10个epoch的时候还是发现验证集准确率一直在24%。调整batchsize=64，优化器为adam，初始化学习率为0.0002，训练90个epoch，每30个epoch学习率除以10。最终验证集准确率达到63%。从生成模型文件的大小来看参数确实降低了许多（AlexNet大约220MB，NiN只需要78MB）。  
+不懂为啥GitHub不显示图片，详细可以看我的博客：<https://blog.csdn.net/laonafahaodange/article/details/121385765>
 
 --- 
 
