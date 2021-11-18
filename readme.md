@@ -310,8 +310,8 @@ if __name__ == '__main__':
 
 ```
 ### 预测结果
-![](predict_result\daisy.png)
-![](predict_result\dandelion.png)
+![](.\predict_result\daisy.png)
+![](.\predict_result\dandelion.png)
 ![](predict_result\rose.png)
 ![](predict_result\sunflower.png)
 ![](predict_result\tulip.png)
