@@ -327,6 +327,6 @@ rose和tulip预测错误，其余正确。
 - [NIN网络-Network In Network]<https://blog.csdn.net/fanzy1234/article/details/86173123>
 - [(翻译)Network In Network]<https://www.jianshu.com/p/8a3f9f06bbe3>
 - [从头学pytorch(十七):网络中的网络NIN]<https://www.cnblogs.com/sdu20112013/p/12181314.html>
-- [神经网络系列（四）--NIN 网络结构]<https://blog.csdn.net/budong282712018/article/details/102787380>
+- [神经网络系列（四）--NIN网络结构]<https://blog.csdn.net/budong282712018/article/details/102787380>
 - [（NIN网络）Network in Network论文阅读笔记]<https://zhuanlan.zhihu.com/p/138829008>
 - [NiN：使用1×1卷积层替代全连接层]<https://zhuanlan.zhihu.com/p/337045965>
