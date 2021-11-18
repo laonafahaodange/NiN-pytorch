@@ -310,11 +310,11 @@ if __name__ == '__main__':
 
 ```
 ### 预测结果
-![](\predict_result\daisy.png)
-![](\predict_result\dandelion.png)
-![](\predict_result\rose.png)
-![](\predict_result\sunflower.png)
-![](\predict_result\tulip.png)
+![](predict_result\daisy.png)
+![](predict_result\dandelion.png)
+![](predict_result\rose.png)
+![](predict_result\sunflower.png)
+![](predict_result\tulip.png)
 rose和tulip预测错误，其余正确。
 
 ## 总结
